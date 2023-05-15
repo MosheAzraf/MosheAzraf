@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/azrafmoshiko" target="blank"><img src="https://img.shields.io/twitter/follow/azrafmoshiko?logo=twitter&style=for-the-badge" alt="azrafmoshiko" /></a> </p>
 
-- 🌱 I’m currently learning **react, node.js, express, mongodb**
+- 🌱 I’m currently focusing on **react, node.js, express, mongodb** stack
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
