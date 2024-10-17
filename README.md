@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Web Developer working with various technologies, <br>primarily with ASP.NET, PostgreSQL, MongoDB, and React.
+I'm a Backend Developer working with various technologies, <br>primarily with ASP.NET, PostgreSQL, MongoDB, and React.
 
 
 ## 🌐 Socials:
