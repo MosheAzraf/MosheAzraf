@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a Backend Developer working with various technologies, <br>primarily with ASP.NET, PostgreSQL, MongoDB, and React.
+I'm a Backend & Cloud Developer with hands-on experience across various technologies.
+I bring a broad, hands-on perspective — I like understanding how everything connects, from backend logic to making sure things actually work.
+
+I'm familiar with core AWS services, cloud concepts, CI/CD pipelines, and Linux environments.
+My current tech stack includes .NET, C#, JavaScript, TypeScript, React, PostgreSQL, MS SQL, MongoDB, and AWS.
 
 
 ## 🌐 Socials:
