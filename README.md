@@ -9,6 +9,7 @@ My current tech stack includes .NET, C#, JavaScript, TypeScript, React, PostgreS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mosheazraf)
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosheAzraf&layout=compact&theme=radical" alt="MosheAzraf's Top Languages" />
+
 ---
 
 # 💻 Tech Stack:
