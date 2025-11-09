@@ -24,7 +24,6 @@ My current tech stack includes .NET, C#, JavaScript, TypeScript, React, PostgreS
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosheAzraf&layout=compact&theme=radical" alt="MosheAzraf's Top Languages" />
 
----
 
 > Credit: GPRM for profile generator  
 > Link: https://gprm.itsvg.in/
