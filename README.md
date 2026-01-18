@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I'm a DevOps Engineer with a software development background and hands-on experience with various technologies.
-I bring a broad, hands-on perspective — I focus on understanding how things connect, from logic to making sure everything works.
+I bring a broad, hands-on perspective - I focus on understanding how things connect, from logic to making sure everything works.
 
 ---
 
