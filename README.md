@@ -19,9 +19,6 @@ I bring a broad, hands-on perspective - I focus on understanding how things conn
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-1?logo=argo&logoColor=white&labelColor=black&color=black)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-1?logo=gitlab&logoColor=white&labelColor=black&color=black)
 ![Linux](https://img.shields.io/badge/Linux-1?logo=linux&logoColor=white&labelColor=black&color=black)
-
-<br/>
-
 ![CSharp](https://img.shields.io/badge/C%23-1?logo=csharp&logoColor=white&labelColor=black&color=black)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-1?logo=dotnet&logoColor=white&labelColor=black&color=black)
 ![JWT](https://img.shields.io/badge/JWT-1?logo=jsonwebtokens&logoColor=white&labelColor=black&color=black)
