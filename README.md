@@ -1,8 +1,10 @@
 <div align="center">
 
 # 💫 About Me:
-DevOps Engineer with a backend background.
-Focused on understanding how systems connect and work end-to-end.
+I enjoy building systems and workloads, and exploring new technologies.
+I also run my own homelab, 
+where I use a hands-on approach to learn, set up environments,
+and better understand how technologies work end-to-end.
 
 <br/>
 
