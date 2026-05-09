@@ -1,6 +1,8 @@
 <div align="center">
 
 # 💫 About Me:
+Self-taught DevOps Engineer with hands-on backend development experience.
+I focus on learning how modern systems are deployed, monitored, and maintained through hands-on infrastructure and backend projects.
 I enjoy building systems and workloads, and exploring new technologies.
 I also run my own homelab, 
 where I use a hands-on approach to learn, set up environments,
