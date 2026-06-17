@@ -1,12 +1,13 @@
 <div align="center">
 
 # 💫 About Me:
-Self-taught DevOps Engineer with hands-on backend development experience.
-I focus on learning how modern systems are deployed, monitored, and maintained through hands-on infrastructure and backend projects.
-I enjoy building systems and workloads, and exploring new technologies.
-I also run my own homelab, 
-where I use a hands-on approach to learn, set up environments,
-and better understand how technologies work end-to-end.
+DevOps / Infrastructure Engineer with a practical software development background.
+
+I focus on understanding how modern systems are deployed, automated, monitored, and maintained through hands-on infrastructure and backend projects.
+
+My experience comes from building practical labs and projects using Kubernetes, Linux, Terraform, Ansible, Proxmox, and GitOps.
+
+I also run my own homelab, where I set up environments, test technologies, and document what I learn to better understand systems end-to-end.
 
 <br/>
 
